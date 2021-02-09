@@ -1,0 +1,9 @@
+{
+  "name": "fastify-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.11.0"
+  }
+}
