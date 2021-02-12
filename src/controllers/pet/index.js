@@ -12,5 +12,7 @@ module.exports = {
         const pet = filtred_pet.pop()
 
         reply.type('application/json').code(200).send(pet)
+        //Teste
+
     }
 }
